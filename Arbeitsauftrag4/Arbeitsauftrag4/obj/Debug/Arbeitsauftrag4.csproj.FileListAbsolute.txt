@@ -1,0 +1,7 @@
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\bin\Debug\Arbeitsauftrag4.exe.config
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\bin\Debug\Arbeitsauftrag4.exe
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\bin\Debug\Arbeitsauftrag4.pdb
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\obj\Debug\Arbeitsauftrag4.csprojAssemblyReference.cache
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\obj\Debug\Arbeitsauftrag4.csproj.CoreCompileInputs.cache
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\obj\Debug\Arbeitsauftrag4.exe
+C:\Users\FW\Documents\APR\Corona-Weeks\Arbeitsauftrag_27032020\Arbeitsauftrag4\Arbeitsauftrag4\obj\Debug\Arbeitsauftrag4.pdb
